@@ -1,0 +1,15 @@
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\Practic1.csproj.AssemblyReference.cache
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\Practic1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\Practic1.AssemblyInfoInputs.cache
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\Practic1.AssemblyInfo.cs
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\Practic1.csproj.CoreCompileInputs.cache
+F:\Моя учеба\HomeWork\Practic1\bin\Debug\net6.0\Practic1.exe
+F:\Моя учеба\HomeWork\Practic1\bin\Debug\net6.0\Practic1.deps.json
+F:\Моя учеба\HomeWork\Practic1\bin\Debug\net6.0\Practic1.runtimeconfig.json
+F:\Моя учеба\HomeWork\Practic1\bin\Debug\net6.0\Practic1.dll
+F:\Моя учеба\HomeWork\Practic1\bin\Debug\net6.0\Practic1.pdb
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\Practic1.dll
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\refint\Practic1.dll
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\Practic1.pdb
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\Practic1.genruntimeconfig.cache
+F:\Моя учеба\HomeWork\Practic1\obj\Debug\net6.0\ref\Practic1.dll
