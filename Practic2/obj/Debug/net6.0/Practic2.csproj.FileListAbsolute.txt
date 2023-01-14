@@ -1,0 +1,15 @@
+F:\Моя учеба\HomeWork\Practic1\Practic2\bin\Debug\net6.0\Practic2.exe
+F:\Моя учеба\HomeWork\Practic1\Practic2\bin\Debug\net6.0\Practic2.deps.json
+F:\Моя учеба\HomeWork\Practic1\Practic2\bin\Debug\net6.0\Practic2.runtimeconfig.json
+F:\Моя учеба\HomeWork\Practic1\Practic2\bin\Debug\net6.0\Practic2.dll
+F:\Моя учеба\HomeWork\Practic1\Practic2\bin\Debug\net6.0\Practic2.pdb
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\Practic2.csproj.AssemblyReference.cache
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\Practic2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\Practic2.AssemblyInfoInputs.cache
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\Practic2.AssemblyInfo.cs
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\Practic2.csproj.CoreCompileInputs.cache
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\Practic2.dll
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\refint\Practic2.dll
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\Practic2.pdb
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\Practic2.genruntimeconfig.cache
+F:\Моя учеба\HomeWork\Practic1\Practic2\obj\Debug\net6.0\ref\Practic2.dll
